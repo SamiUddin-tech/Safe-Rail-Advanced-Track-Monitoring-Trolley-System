@@ -16,12 +16,11 @@ The *Time-of-Flight (ToF)* camera operates based on the principle of measuring t
 
 **7. Applications:** *Time-of-Flight cameras* find applications in various fields, including *robotics*, *Quality Control*, *augmented reality*, *gesture recognition*, and *3D scanning*. Their ability to rapidly capture depth information in real-time makes them valuable tools for tasks requiring spatial understanding and interaction.
 
-So In this Grand Project Named *Safe Rail* I am using [Basler Blaze 101 - Time of Flight Camera](https://www.baslerweb.com/en/products/cameras/3d-cameras/basler-blaze/blaze-101/) manufactured by a german company named [Basler AG - Computer Vision Expert](https://www.baslerweb.com/en/). 
+So In this Grand Project Named ***Safe Rail*** I am using [Basler Blaze 101 - Time of Flight Camera](https://www.baslerweb.com/en/products/cameras/3d-cameras/basler-blaze/blaze-101/) manufactured by a german company named [Basler AG - Computer Vision Expert](https://www.baslerweb.com/en/). 
 
 Balser Blaze 101 - Time of Flight Sensor:
 
-![image-blaze-101](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/65382601-424b-43d7-9a95-865ebd5bd013)
-![machinevision-basler-3d-tof_cameras-blaze-101-1-1](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/2cd51403-e5f8-47e5-b917-5659c9b975fb)
+![image-blaze-101](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/65382601-424b-43d7-9a95-865ebd5bd013)![machinevision-basler-3d-tof_cameras-blaze-101-1-1](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/2cd51403-e5f8-47e5-b917-5659c9b975fb)
 
 ## Calibration of Balser Ace2 1920-160ucPro along with Basler Blaze 101 - 160ucPro
 
