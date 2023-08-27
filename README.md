@@ -21,7 +21,6 @@ So In this Grand Project Named Safe Rail I am using [Basler Blaze 101 - Time of 
 Balser Blaze 101 - Time of Flight Sensor:
 
 ![image-blaze-101](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/65382601-424b-43d7-9a95-865ebd5bd013)
-
 ![machinevision-basler-3d-tof_cameras-blaze-101-1-1](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/2cd51403-e5f8-47e5-b917-5659c9b975fb)
 
 ## Calibration of Balser Ace2 1920-160ucPro along with Basler Blaze 101 - 160ucPro
