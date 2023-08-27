@@ -22,7 +22,7 @@ The *Time-of-Flight (ToF)* camera operates based on the principle of measuring t
 
 **7. Applications:** *Time-of-Flight cameras* find applications in various fields, including *robotics*, *Quality Control*, *augmented reality*, *gesture recognition*, and *3D scanning*. Their ability to rapidly capture depth information in real-time makes them valuable tools for tasks requiring spatial understanding and interaction.
 
-# Project: Safe Rail - Development of Advanced Rail Track Inpsection and Monitoring system using High Speed RGB Cameras and Time of Flight Sensor.
+# Project: Safe Rail - Development of Advanced Rail Track Inpsection and Monitoring Trolley system using High Speed RGB Cameras and Time of Flight Sensor.
 
 ![Rail_v4](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/d4df7086-458a-45fe-8d57-ebf16c340b6b)
 
