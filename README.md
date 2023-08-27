@@ -1,6 +1,6 @@
 # Time-of-Flight-ToF-Point-Cloud-Processing
 
-The Time-of-Flight (ToF) camera operates based on the principle of measuring the time taken by light to travel from the camera to an object and back. This measurement allows the camera to calculate the distance between itself and the object, enabling the creation of a depth map that represents the spatial layout of the scene. Here's a concise breakdown of its working principle:
+The *Time-of-Flight (ToF)* camera operates based on the principle of measuring the time taken by light to travel from the camera to an object and back. This measurement allows the camera to calculate the distance between itself and the object, enabling the creation of a depth map that represents the spatial layout of the scene. Here's a concise breakdown of its working principle:
 
 **1. Light Emission:** The ToF camera emits short bursts of light, often in the form of *infrared (IR) pulses*, toward the scene being captured. These light pulses are emitted at a rapid rate.
 
