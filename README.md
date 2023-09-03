@@ -29,8 +29,8 @@ The *Time-of-Flight (ToF)* camera operates based on the principle of measuring t
 So In this Grand Project Named ***Safe Rail*** I am using [Basler Blaze 101 - Time of Flight Camera](https://www.baslerweb.com/en/products/cameras/3d-cameras/basler-blaze/blaze-101/) manufactured by a german company named [Basler AG - Computer Vision Expert](https://www.baslerweb.com/en/). 
 
 ## Balser Blaze 101 - Time of Flight Sensor:
-
-![image-blaze-101](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/65382601-424b-43d7-9a95-865ebd5bd013)![machinevision-basler-3d-tof_cameras-blaze-101-1-1](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/2cd51403-e5f8-47e5-b917-5659c9b975fb)
+1. Basler Blaze 101 - Time of Flight (ToF) Camera
+![image-6](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/b8ed3293-5770-43fc-83ac-414e8339c92a)
 
 ## Calibration of Balser Ace2 1920-160ucPro along with Basler Blaze 101 - 160ucPro
 
