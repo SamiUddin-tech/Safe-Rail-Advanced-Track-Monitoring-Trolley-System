@@ -26,6 +26,14 @@ The *Time-of-Flight (ToF)* camera operates based on the principle of measuring t
 
 ![Rail_v4](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/d4df7086-458a-45fe-8d57-ebf16c340b6b)
 
+## Bill of Materials (BOM):
+1. [Basler Blaze 101 - Time of Flight Camera](https://www.baslerweb.com/en/products/cameras/3d-cameras/basler-blaze/blaze-101/)
+2. [ a2A1920-160ucPRO - Basler ace 2](https://www.baslerweb.com/en/products/cameras/area-scan-cameras/ace2/a2a1920-160ucpro/)
+3. [Ace 2 to blaze mounting bracket - Mounting](https://www.baslerweb.com/en/products/accessories-and-bundles/ace-2-to-blaze-mounting-bracket/)
+4. [Cable GigE M12, M, 8P/RJ45, 10 m - Data Cable](https://www.baslerweb.com/en/products/cable/cable-gige-m12-m-8p-rj45-10-m/)
+5. [Power-I/O Cable M12, M, 8P/Open,10 m - I/O / Power Cables](https://www.baslerweb.com/en/products/cable/power-i-o-cable-m12-m-8p-open-10-m/)
+6. [ Power Cable M12 8-pin, DC Jack 5.5/2.1mm - Adapter Cable](https://www.baslerweb.com/en/products/cable/power-cable-m12-8-pin-dc-jack-5-5-2-1mm/)
+
 So In this Grand Project Named ***Safe Rail*** I am using [Basler Blaze 101 - Time of Flight Camera](https://www.baslerweb.com/en/products/cameras/3d-cameras/basler-blaze/blaze-101/) manufactured by a german company named [Basler AG - Computer Vision Expert](https://www.baslerweb.com/en/). 
 
 ## Balser Blaze 101 - Time of Flight Sensor:
