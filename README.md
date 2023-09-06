@@ -44,6 +44,8 @@ So In this Grand Project Named ***Safe Rail*** I am using [Basler Blaze 101 - Ti
 
 Setting Up Environemnt For Calibration 
 
+[LinkedIn Highlights](https://www.linkedin.com/posts/sami-uddin-a6b40b20a_computervision-cameracalibration-camras-activity-7098573158764490752-0OX7?utm_source=share&utm_medium=member_desktop)
+
 ![1692431724815](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/f7357cc5-e46e-4086-a787-bf6f57817611)
 
 ## Real Time Point Cloud Accquisition from Real TOF Sesnor: Point Cloud Accquisition from Balser Blaze 101 Time of Flight Sensor at 30 FPS
