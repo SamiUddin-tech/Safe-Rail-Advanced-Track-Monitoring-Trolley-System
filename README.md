@@ -33,6 +33,7 @@ The *Time-of-Flight (ToF)* camera operates based on the principle of measuring t
 4. [Cable GigE M12, M, 8P/RJ45, 10 m - Data Cable](https://www.baslerweb.com/en/products/cable/cable-gige-m12-m-8p-rj45-10-m/)
 5. [Power-I/O Cable M12, M, 8P/Open,10 m - I/O / Power Cables](https://www.baslerweb.com/en/products/cable/power-i-o-cable-m12-m-8p-open-10-m/)
 6. [ Power Cable M12 8-pin, DC Jack 5.5/2.1mm - Adapter Cable](https://www.baslerweb.com/en/products/cable/power-cable-m12-8-pin-dc-jack-5-5-2-1mm/)
+7. Camera Mounts are manufactured by [Zambeel Machine Craft](https://www.zambeel.ltd/)
 
 So In this Grand Project Named ***Safe Rail*** I am using [Basler Blaze 101 - Time of Flight Camera](https://www.baslerweb.com/en/products/cameras/3d-cameras/basler-blaze/blaze-101/) manufactured by a german company named [Basler AG - Computer Vision Expert](https://www.baslerweb.com/en/). 
 
