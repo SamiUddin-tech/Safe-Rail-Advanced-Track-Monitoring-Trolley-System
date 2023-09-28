@@ -36,6 +36,8 @@ The *Time-of-Flight (ToF)* camera operates based on the principle of measuring t
 7. Camera Mounts are designed and manufactured by [Zambeel Machine Craft](https://www.zambeel.ltd/)
 8. [WitMotion WTGAHRS2 10 Axis GPS Navigation Position Speed Tracker Sensor Accelerometer + Gyro + Angle + Magnetometer + Barometer](https://www.wit-motion.com/10-axis/witmotion-wtgahrs2-10-axis.html)
 9. [OAK - D - POE](https://shop.luxonis.com/products/oak-d-poe)
+10. [USW-Lite-8-POE (52W)](https://store.ui.com/us/en/products/usw-lite-8-poe)
+11. [POE Injector](https://shop.luxonis.com/products/poe-injector?variant=43731965673695)
 
 So In this Grand Project Named ***Safe Rail*** I am using [Basler Blaze 101 - Time of Flight Camera](https://www.baslerweb.com/en/products/cameras/3d-cameras/basler-blaze/blaze-101/) manufactured by a german company named [Basler AG - Computer Vision Expert](https://www.baslerweb.com/en/). 
 
