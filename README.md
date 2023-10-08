@@ -63,7 +63,7 @@ Setting Up Environemnt For Calibration
 
 ![1692431724815](https://github.com/SamiUddin-tech/Time-of-Flight-ToF-Point-Cloud-Processing/assets/81253183/f7357cc5-e46e-4086-a787-bf6f57817611)
 
-**here is the proud fact, till to date, Not a single Computer Vision Engineer in my country (Pakistan) had hand-on experience on this *Time of Flight Sensor***
+*Here is an interesting observation: As of today, there has not been an individual in my country, Pakistan, who possesses hands-on experience with Time of Flight Sensors in the field of Computer Vision.*
 
 ## Real Time Point Cloud Accquisition from Real TOF Sesnor: Point Cloud Accquisition from Balser Blaze 101 Time of Flight Sensor at 30 FPS
 
