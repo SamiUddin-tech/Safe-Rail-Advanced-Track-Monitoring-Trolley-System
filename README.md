@@ -47,7 +47,9 @@ So In this Grand Project Named ***Safe Rail*** I am using [Basler Blaze 101 - Ti
 
 ### a2A1920-160ucPRO - Basler ace 2
 
-### Inspection Vehicle
+### Rail Inspection Vehicle
+
+![IMG_20230607_102546](https://github.com/SamiUddin-tech/Safe-Rail-Advanced-Track-Monitoring-Trolley-System/assets/81253183/6830cabc-94f1-4f8d-be74-171986f1c262)
 
 ### Camera Mounts
 
